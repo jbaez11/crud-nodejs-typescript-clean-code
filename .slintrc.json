@@ -1,0 +1,14 @@
+{
+    "extends":"standard-with-typescript",
+    "parserOptions":{
+        "project" : "./tsconfig.json"
+    },
+    "rules":{
+
+    },
+    "ignorePatterns":[
+        "dist",
+        "src/**/*.js"
+    ]
+
+}
